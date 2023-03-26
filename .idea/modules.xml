@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/currency-conversion-backend/CurrencyConversionApplication/CurrencyConversionApplication.iml" filepath="$PROJECT_DIR$/currency-conversion-backend/CurrencyConversionApplication/CurrencyConversionApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PlayTech-DevOps-Assignment-master.iml" filepath="$PROJECT_DIR$/.idea/PlayTech-DevOps-Assignment-master.iml" />
+    </modules>
+  </component>
+</project>
